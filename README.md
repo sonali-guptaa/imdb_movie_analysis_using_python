@@ -10,3 +10,7 @@ This project uses Python libraries like Pandas for data manipulation, NumPy for 
 ## Key Findings
 The analysis revealed that Crime|Drama|Fantasy|Mystery is the most popular genre than the other genres among users. Charles Chaplin is the director who has the highest IMDB ratings. Leonardo DiCaprio is the actor who has the highest average number of user reviews and critic reviews. Overall the number of users are increasing over the decade. English is the most popular language among users. Avatar is the most popular movie among the others. Although, after exploring the correlations between genre, director, language with IMDB ratings of movies, it is clear that these factors did not affect the IMDB ratings of a movie.
 
+
+## To Run the Project
+Make sure you have Python 3 and necessary libraries like Pandas, NumPy, and Matplotlib installed.
+Clone this repository or download the project files.
