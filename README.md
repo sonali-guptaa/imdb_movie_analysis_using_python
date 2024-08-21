@@ -2,7 +2,7 @@
 This project analyzes data about movies from the IMDB website. It aims to investigate "What factors influence the success of a movie on IMDB?"and identify interesting trends. The impact of this problem is significant for movie producers, directors, and investors who want to understand what makes a movie successful to make informed decisions in their future projects. 
 
 ## Dataset info
-The raw dataset contains 5043 rows and 28 columns that provided all the information about IMDB ratings of various movies. The dataset includes information about various movie attributes like movie title, release year, genre, director, actor names etc. I am also providing the raw dataset within this repository.
+The raw dataset contains 5043 rows and 28 columns that provided all the information about IMDB ratings of various movies. The dataset includes information about various movie attributes like movie title, release year, genre, director, actor names etc. I have also provided the raw dataset within this repository.
 
 ## Analysis Techniques
 This project uses Python libraries like Pandas for data manipulation, NumPy for numerical computations, and Matplotlib for data visualization. The analysis explores trends in movie genres across decades, investigates the relationship between genre and ratings, and visualizes these findings using various plots and charts.
